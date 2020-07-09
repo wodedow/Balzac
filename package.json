@@ -1,0 +1,19 @@
+{
+  "name": "balzac",
+  "version": "1.0.0",
+  "description": "balzac introduction",
+  "main": "index.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/wodedow/Balzac.git"
+  },
+  "author": "xugh",
+  "license": "ISC",
+  "bugs": {
+    "url": "https://github.com/wodedow/Balzac/issues"
+  },
+  "homepage": "https://github.com/wodedow/Balzac#readme"
+}
