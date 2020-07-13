@@ -1,0 +1,77 @@
+  * {
+    margin: 0;
+    padding: 0;
+    text-decoration: none;
+  }
+
+  li {
+    list-style: none;
+  }
+
+  html {
+    background-color: rgb(200, 200, 200, 0.01);
+  }
+
+  p {
+    text-align: justify;
+    line-height: 1.5em;
+    text-indent: 2em;
+    font-family: "shuSong";
+  }
+
+  #app {
+    width: 100%;
+    height: auto;
+  }
+
+  @font-face {
+    font-family: "biaoSong";
+    src: url("../fonts/biaoSong.ttf");
+  }
+
+  @font-face {
+    font-family: "fangSong";
+    src: url("..//fonts/fangSong.ttf");
+  }
+
+  @font-face {
+    font-family: "shuSong";
+    src: url("../fonts/shuSong.ttf");
+  }
+
+  @font-face {
+    font-family: "kaiTi";
+    src: url("../fonts/kaiTi.ttf");
+  }
+
+  .note {
+    margin: 1px;
+    position: relative;
+  }
+
+  .note:hover {
+    background-color: pink;
+  }
+
+  .note img {
+    width: 15px;
+    height: 15px;
+  }
+
+  .note:hover::after {
+    content: attr(data-content);
+    text-align: justify;
+    text-indent: 0em;
+    display: inline-block;
+    font-family: "fangSong";
+    min-width: 150px;
+    border: 1px solid #ccc;
+    background-color: #fff;
+    color: rgba(128, 00, 128, 1);
+    position: absolute;
+    top: 25px;
+    left: 10px;
+    padding: 8px;
+    cursor: pointer;
+    opacity: 0.95;
+  }

@@ -1,0 +1,90 @@
+<template>
+  <div id="index">
+    <p></p>
+    <p>index</p>
+    <p>index</p>
+    <p>index</p>
+    <p>index</p>
+    <p>index</p>
+    <p>index</p>
+    <p>index</p>
+    <p>index</p>
+    <p>index</p>
+    <p>index</p>
+    <p>谁又会像巴尔扎克<span class="note" data-content="法国作家那样成"><img src="@/assets/note.png" alt="注"></span>
+      那样成为一位伟大的作家呢，谁又会像巴尔扎克那样成为一位伟大的作家呢，谁又会像巴尔扎克那样成为一位伟大的作家呢，谁又会像巴尔扎克那样成为一位伟大的作家呢</p>
+    <p>index</p>
+    <p>index</p>
+    <p>index</p>
+    <p>index</p>
+    <p>index</p>
+    <p>index</p>
+    <p>index</p>
+    <p>index</p>
+    <p>index</p>
+    <p>index</p>
+    <p>index</p>
+    <p>index</p>
+    <p>index</p>
+    <p>index</p>
+    <p>index</p>
+    <p>index</p>
+    <p>index</p>
+    <p>index</p>
+    <p>index</p>
+    <p>index</p>
+    <p>index</p>
+    <p>index</p>
+    <p>index</p>
+    <p>index</p>
+    <p>index</p>
+    <p>index</p>
+    <p>index</p>
+    <p>index</p>
+    <p>index</p>
+    <p>index</p>
+    <p>index</p>
+    <p>index</p>
+    <p>index</p>
+    <p>index</p>
+    <p>index</p>
+    <p>index</p>
+    <p>index</p>
+    <p>index</p>
+    <p>index</p>
+    <p>index</p>
+    <p>index</p>
+    <p>index</p>
+    <p>index</p>
+    <p>index</p>
+    <p>index</p>
+    <p>index</p>
+    <p>index</p>
+    <p>index</p>
+    <p>index</p>
+    <p>index</p>
+    <p>index</p>
+    <p>index</p>
+    <p>index</p>
+    <p>index</p>
+    <p>index</p>
+    <p>index</p>
+    <p>index</p>
+    <p>index</p>
+    <p>index</p>
+    <p>index</p>
+    <p>index</p>
+    <p>index</p>
+    <p>index</p>
+  </div>
+</template>
+
+<script>
+  export default {
+    name: "index"
+  }
+</script>
+
+<style scoped>
+
+</style>
