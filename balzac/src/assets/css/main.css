@@ -49,10 +49,6 @@
     position: relative;
   }
 
-  .note:hover {
-    background-color: pink;
-  }
-
   .note img {
     width: 15px;
     height: 15px;
@@ -63,9 +59,9 @@
     text-align: justify;
     text-indent: 0em;
     display: inline-block;
-    font-family: "fangSong";
+    font-family: "kaiTi";
     min-width: 150px;
-    border: 1px solid #ccc;
+    /* border: 1px solid #ccc; */
     background-color: #fff;
     color: rgba(128, 00, 128, 1);
     position: absolute;

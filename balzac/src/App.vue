@@ -6,7 +6,7 @@
       <router-link to="/works" tag="div" class="balzac--nav">人间喜剧</router-link>
       <router-link to="/others" tag="div" class="balzac--nav">其它作品</router-link>
       <router-link to="/background" tag="div" class="balzac--nav">相关背景</router-link>
-      <div class="aside"><img :src="balzac_h" alt="human" width="160px">
+      <div class="aside"><img :src="balzac_h" alt="human" width="100%">
         <div @click="coffee" class="coffee">COFFEE</div>
       </div>
     </div>
@@ -17,11 +17,9 @@
 </template>
 
 <script>
-  import mainhtml from "@/components/common/Main.vue"
   export default {
     name: 'App',
     components: {
-      mainhtml
     },
     data() {
       return {
@@ -60,7 +58,7 @@
   #view {
     position: absolute;
     top: 10%;
-    left: 15%;
+    left: 12%;
     right: 4%;
     overflow: hidden;
     z-index: 100;
@@ -88,6 +86,7 @@
   }
 
   .aside {
+    width: 100%;
     position: absolute;
     margin-top: 15%;
     bottom: 30%;

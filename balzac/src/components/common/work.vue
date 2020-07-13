@@ -32,7 +32,7 @@
   }
 
   .work:hover {
-    box-shadow: 2px 2px 5px rgba(80, 00, 80, 0.05);
+    box-shadow: 5px 5px 5px rgba(80, 00, 80, 0.05);
   }
 
   .works--img {
