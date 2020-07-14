@@ -15,7 +15,7 @@
   .editby {
     margin: 2em auto;
     text-align: center;
-    color: #ccc;
+    color: rgba(80, 00, 80, 0.3);
     font-family: 'Lucida Sans', 'Lucida Sans Regular', 'Lucida Grande', 'Lucida Sans Unicode', Geneva, Verdana, sans-serif;
   }
 </style>

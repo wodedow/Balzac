@@ -79,6 +79,6 @@
     right: 0;
     left: 0;
     bottom: 0;
-    background-color: rgb(255, 255, 255, 0.6);
+    background-color: rgb(255, 255, 255, 0.65);
   }
 </style>

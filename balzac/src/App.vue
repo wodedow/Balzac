@@ -60,7 +60,7 @@
     top: 10%;
     left: 12%;
     right: 4%;
-    overflow: hidden;
+    /* overflow: hidden; */
     z-index: 100;
   }
 
@@ -78,7 +78,7 @@
     color: rgb(80, 00, 80, 0.9);
     cursor: pointer;
     font-family: "biaoSong";
-    font-size: 1em;
+    font-size: 0.95em;
   }
 
   .balzac--nav:hover {
@@ -93,7 +93,7 @@
   }
 
   .coffee {
-    width: 80px;
+    width: 70px;
     color: #fff;
     font-family: 'Courier New', Courier, monospace;
     background-color: rgb(80, 00, 80, 0.5);
